@@ -15,3 +15,4 @@ Quality and alignment are reinforced throughout the lifecycle with project board
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [Ownership, Handoff & Escalation Checklist](octoacme-ownership-handoff-and-escalation-checklist.md)
